@@ -1,4 +1,4 @@
-Примкр использования NextAuth + Prisma + Vercel Postgres
+Пример использования NextAuth + Prisma + Vercel Postgres
 ========================================================
 по теме рекомендую посмотреть следующие репозитории 
 + [:octocat:nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example)
